@@ -1,2 +1,2 @@
-# cra-node-proxy-demp
+# cra-node-proxy-demo
 Demo of proxy feature in CRA
